@@ -1,5 +1,7 @@
 # PropVista — Real Estate Operating System
 
+> ✅ Environment fully set up — Node.js v26 LTS, Git, gh, PostgreSQL, pgAdmin 4 installed; gh authenticated as pratik2669; default branch is `main`.
+
 PropVista is a premium, SaaS-grade Real Estate Operating System and CRM built using Python and Django. Designed with an elegant, responsive glassmorphic UI, it streamlines interactions between property buyers, sellers, and administrators through real-time dashboards, signal-driven notifications, and rich database-backed analytics.
 
 ---
